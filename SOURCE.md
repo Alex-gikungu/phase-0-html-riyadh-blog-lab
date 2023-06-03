@@ -9,7 +9,6 @@ SUB HEAD
 IMAGE 1 FILE
 
 `transit.jpg`
-
 IMAGE 1 ALT TEXT
 
 `Modern Transit`
